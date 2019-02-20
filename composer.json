@@ -1,5 +1,5 @@
 {
-  "name": "/anaklanangdev/phpresellerclub",
+  "name": "anaklanangdev/phpresellerclub",
     "type": "library",
     "description": "Use Blade templates engine on codeigniter framework",
     "keywords": ["blade", "templating", "template", "codeigniter"],
