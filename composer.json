@@ -1,4 +1,16 @@
 {
+  "name": "/anaklanangdev/phpresellerclub",
+    "type": "library",
+    "description": "Use Blade templates engine on codeigniter framework",
+    "keywords": ["blade", "templating", "template", "codeigniter"],
+    "homepage": "https://github.com/anaklanangdev/phpresellerclub",
+    "license": "Apache-2.0",
+    "authors": [{
+        "name": "Mas Ranto",
+        "email": "anaklanangnet@gmail.com",
+        "homepage": "https://github.com/anaklanangdev",
+        "role": "Developer"
+}],
   "require" : {
     "php" : ">=5.3.3",
     "ext-intl" : "*"
